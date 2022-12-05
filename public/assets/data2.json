@@ -1,0 +1,23 @@
+[
+    {
+        "id":"1",
+        "nombre":"torneo de barcelona",
+        "premio":21000,
+        "ganador":"emilio 3"
+
+    },
+    {
+        "id":"2",
+        "nombre":"premio por mejor jugador ",
+        "premio":1000,
+        "ganador":"emilio 3"
+        
+    },
+    {
+        "id":"3",
+        "nombres":"premio de mejor entrandor",
+        "premio":1000,
+        "ganador":"emilio 3"
+  
+    }
+]

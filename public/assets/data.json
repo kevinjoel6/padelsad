@@ -1,0 +1,23 @@
+[
+    {
+        "id":"1",
+        "nombre":"torneo de barcelona",
+        "participitantes":100,
+        "ganador":"emilio",
+        "fecha":"10 de abril 2o2o"
+    },
+    {
+        "id":"2",
+        "nombre":"torneo de barcelona",
+        "participitantes":100,
+        "ganador":"emilio",
+        "fecha":"10 de abril 2o2o"
+    },
+    {
+        "id":"3",
+        "nombres":"torneo de barcelona",
+        "participitantes":100,
+        "ganador":"emilio",
+        "fecha":"10 de abril 2o2o"
+    }
+]

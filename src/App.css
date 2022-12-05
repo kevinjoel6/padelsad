@@ -1,0 +1,101 @@
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+body{
+  width: 100%;
+}
+
+.contact-form {
+  margin: 0 10px;
+}
+
+.contact-form h3{
+  text-align: justify;
+  font-size: 20px;
+  color: #332f33d5;
+}
+
+.privacy{
+  text-align: justify;
+  font-size: 15px;
+  margin:0px 20px
+}
+
+.footer{
+  width: 100%;
+  color: blue;
+}
+
+.slide1{
+  width: 20%;
+  height: auto;
+}
+
+.parent {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  gap: 5px;
+  margin: 10px;
+}
+.parent1 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 5px;
+  margin: 10px;
+}
+
+.ball{
+  color:#a5951dc5;
+  font-size: 40px;
+  padding-bottom: 9px;
+  
+}
+
+.logo{
+  width: 100px;
+  position: absolute;
+  display: flex;
+  margin-left: 40px;
+  padding: 4px;
+
+}
